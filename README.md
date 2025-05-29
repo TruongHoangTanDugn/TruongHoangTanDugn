@@ -1,3 +1,4 @@
+![z6651892123114_b939f892b281fd6a38564303e7118b68](https://github.com/user-attachments/assets/b89b84d4-08a5-4690-a37c-73862bface25)
 ## Hi there 👋
 I am Trương Hoàng Tấn Dũng 
 AI Machine Learning Enthusiast 
