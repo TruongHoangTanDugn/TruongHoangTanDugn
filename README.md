@@ -12,14 +12,16 @@ AI Machine Learning Enthusiast
   - Tuổi: 16
   - Trình độ: 
     + Lập trình thi đấu bằng C++ được tương đối khá nhưng mà cũng không còn     theo nữa;
-    + Lập trình AI - Machine Learning: đã thành thạo được đến Intermidate       Machine Learning (như cross-validation, XGBRegressor,                       RandomForestClassifier, v.v...), Data Cleaning, Data Víualization, đang     nghiên cứu Deep Learning.
-    + Đang khởi đầu với lập trình Desktop App với tkinter
+    + Lập trình AI - Machine Learning: đã thành thạo được đến Intermidate       Machine Learning (như cross-validation, XGBRegressor,                       RandomForestClassifier, v.v...), Data Cleaning, Data Víualization
+    + Lập trình AI - Deep Learning (cả Tensorflow Keras và PyTorch), Computer Vision: OpenCV, PyTorch, Tensorflow Keras
+    + Có chút hiểu biết về lập trình Desktop App với tkinter
     + Biết lập trình hướng đối tượng (OOP) sử dụng các ngôn ngữ C++, Java, Python
     + Đang học về database trong SQL.
     + Công việc: Học sinh
 
 **II. Các thành quả tính đến hiện tại của mình**
   - 1 dự án Game bằng Python tên là : Football Legend (lấy cảm hứng từ      hax-ball), dự án làm nhóm 4 người và hoàn thành trong 4 tuần.
+  - Tham dự vòng chung kết Vietnam AI Championship tại Hà Nội cùng đội Nexai
   - 6 giờ là số giờ lập trình trung bình mỗi ngày của mình trên máy tính
   - Chưa có nhiều thành tích về tin học lập trình nhiều nhưng có 1 vài giải Toán: 2 HCD VTMO 2020 và 2023, 2 HCD SASMO 2020 và 2021, 1 HCB SASMO 2022 (rồi được tham gia SIMOC 2022 nhưng ko có giải), Tham gia giải Cúp Titan Việt Nam.
   - Áp dụng tư duy logic của Toán nên dần dần làm quen với lập trình thuật toán tương đối khá.
@@ -27,7 +29,7 @@ III. Kĩ năng
   + Database: 25%
   + Python 55%
   + C++: 70%
-  + AI: 40%
+  + AI: 35%
   + Java: 50%
 
 IV. Sơ yếu lí lịch
