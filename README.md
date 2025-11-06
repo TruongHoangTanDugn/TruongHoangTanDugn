@@ -38,8 +38,10 @@ IV. Sơ yếu lí lịch
   2. Học vấn
     - Chuyên Tin - Phổ thông Năng khiếu, ĐHQG-HCM
       (Tháng 8, 2024 - Hiện tại)
-    - THPT Chuyên Trần Đại Nghĩa, TP. Hồ Chí Minh
+
+     - THPT Chuyên Trần Đại Nghĩa, TP. Hồ Chí Minh
       (2020 - 2024)
+
      - Trường Tiểu học Lạc Long Quân, Q.11
        (2015 - 2020)
 
