@@ -21,7 +21,7 @@ AI Machine Learning Enthusiast
 
 **II. Các thành quả tính đến hiện tại của mình**
   - 1 dự án Game bằng Python tên là : Football Legend (lấy cảm hứng từ      hax-ball), dự án làm nhóm 4 người và hoàn thành trong 4 tuần.
-  - Tham dự vòng chung kết Vietnam AI Championship tại Hà Nội cùng đội Nexai
+  - Huy chương Đồng Vietnam AI Championship tại Hà Nội cùng đội Nexai
   - 6 giờ là số giờ lập trình trung bình mỗi ngày của mình trên máy tính
   - Chưa có nhiều thành tích về tin học lập trình nhiều nhưng có 1 vài giải Toán: 2 HCD VTMO 2020 và 2023, 2 HCD SASMO 2020 và 2021, 1 HCB SASMO 2022 (rồi được tham gia SIMOC 2022 nhưng ko có giải), Tham gia giải Cúp Titan Việt Nam.
   - Áp dụng tư duy logic của Toán nên dần dần làm quen với lập trình thuật toán tương đối khá.
