@@ -27,10 +27,10 @@ AI Machine Learning Enthusiast
   - Áp dụng tư duy logic của Toán nên dần dần làm quen với lập trình thuật toán tương đối khá.
 III. Kĩ năng
   + Database: 10%
-  + Python 55%
-  + C++: 70%
+  + Python 45%
+  + C++: 55%
   + AI: 35%
-  + Java: 50%
+  + Java: 45%
 
 IV. Sơ yếu lí lịch
   1. Tóm tắt
